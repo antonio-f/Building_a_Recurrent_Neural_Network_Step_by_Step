@@ -1,3 +1,3 @@
 # Building a Recurrent Neural Network Step by Step
 
-From the Coursera deeplearning.ai course "Sequence models". In-depth RNN and LSTM mechanics using just NumPy ("rnn_utils" library NOT provided).
+From the Coursera deeplearning.ai course "Sequence models". In-depth RNN and LSTM mechanics using just NumPy ("rnn_utils" file missing).
